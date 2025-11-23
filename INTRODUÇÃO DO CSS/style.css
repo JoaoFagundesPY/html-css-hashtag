@@ -31,3 +31,9 @@ p {
   color: yellow;
   font-size: 20px;
 }
+
+/* Combinando Seletores */
+p span {
+  color: black;
+  font-size: 30px;
+}
