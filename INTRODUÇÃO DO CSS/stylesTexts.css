@@ -1,0 +1,31 @@
+h1,
+h2,
+h3,
+p {
+  font-family: "Roboto", sans-serif;
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 64px;
+  line-height: 1;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+.segundo-paragrafo {
+  font-style: italic;
+}
+
+.destaque {
+  font-style: italic;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: blue;
+}
