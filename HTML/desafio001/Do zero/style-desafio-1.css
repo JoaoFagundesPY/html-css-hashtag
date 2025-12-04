@@ -1,0 +1,60 @@
+/* TAGs */
+
+* {
+  font-family: "Monteserrat", sans-serif;
+}
+
+h1 {
+  font-size: 70px;
+  line-height: 1;
+}
+
+h2 {
+  font-size: 32px;
+  line-height: 1.1;
+}
+
+h3 {
+  font-size: 24px;
+  line-height: 1.2;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.4;
+}
+
+li {
+  font-style: italic;
+  color: #035276;
+}
+
+/* IDs */
+#legendaImagem {
+  font-size: 12px;
+  font-style: italic;
+}
+
+#linkCompra {
+  font-size: 24px;
+  color: #c44105;
+  font-weight: bold;
+  text-decoration-line: underline;
+  text-decoration-style: double;
+}
+
+#polegadas {
+  color: #0588c4;
+}
+
+#freteGratis {
+  color: #0588c4;
+  text-decoration: underline;
+}
+
+/* CLASSES */
+
+.realcePreco,
+.realceCondicoes {
+  color: #0588c4;
+}
