@@ -1,11 +1,29 @@
 * {
   font-family: "Monteserrat", sans-serif;
+  color: #404040;
 }
 
+/* Cabeçalho */
 .item-lista-cabecalho a {
   color: #112e61;
   font-size: 14px;
   text-transform: uppercase;
   text-decoration: none;
   font-weight: 600;
+}
+
+/* Seção Hero */
+h1 {
+  font-size: 26.36px;
+  font-weight: 600;
+}
+
+.hero-paragrafo {
+  font-size: 15.36px;
+}
+
+.botao-hero {
+  font-size: 19.02px;
+  font-weight: 700;
+  text-decoration: none;
 }
