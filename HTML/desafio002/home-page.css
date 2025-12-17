@@ -27,3 +27,19 @@ h1 {
   font-weight: 700;
   text-decoration: none;
 }
+
+/* Seção Conteúdos Gratuitos */
+.gratuito-realce {
+  color: #7a40be;
+  font-weight: 600;
+}
+
+.gratuito-h3 {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.gratuito-link-lista {
+  font-size: 15px;
+  text-decoration: none;
+}
