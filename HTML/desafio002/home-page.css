@@ -23,6 +23,11 @@ strong {
   font-weight: 600;
 }
 
+.botao {
+  font-size: 19.02px;
+  font-weight: 700;
+  text-decoration: none;
+}
 /* Cabeçalho */
 .item-lista-cabecalho a {
   color: #112e61;
@@ -36,12 +41,6 @@ strong {
 
 .hero-paragrafo {
   font-size: 15.36px;
-}
-
-.botao-hero {
-  font-size: 19.02px;
-  font-weight: 700;
-  text-decoration: none;
 }
 
 /* Seção Conteúdos Gratuitos */
@@ -77,4 +76,9 @@ strong {
 
 .diferenciais-h3-empresas {
   font-weight: 400;
+}
+
+/* Seção o que falam */
+.fala-realce {
+  font-weight: 600;
 }
