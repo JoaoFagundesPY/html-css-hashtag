@@ -102,3 +102,24 @@ strong {
 .blog-descricao-post {
   font-size: 17px;
 }
+
+/* Seção Como Ajudar */
+
+.comoAjudar-realce-h2 {
+  font-weight: 600;
+}
+
+.comoAjudar-item-lista,
+.comoAjudar-paragrafo {
+  font-size: 19px;
+}
+
+.comoAjudar-item-lista a,
+.comoAjudar-paragrafo a {
+  font-weight: 600;
+  color: #008ff7;
+}
+
+.comoAjudar-realce-paragrafo {
+  font-weight: 600;
+}
