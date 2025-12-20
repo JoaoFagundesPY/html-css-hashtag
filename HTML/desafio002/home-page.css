@@ -28,6 +28,10 @@ strong {
   font-weight: 700;
   text-decoration: none;
 }
+
+.realce-semibold {
+  font-weight: 600;
+}
 /* Cabeçalho */
 .item-lista-cabecalho a {
   color: #112e61;
@@ -78,11 +82,6 @@ strong {
   font-weight: 400;
 }
 
-/* Seção o que falam */
-.fala-realce {
-  font-weight: 600;
-}
-
 /* Seção Blog da Hashtag */
 .blog-postadoem {
   font-size: 15px;
@@ -104,10 +103,6 @@ strong {
 }
 
 /* Seção Como Ajudar */
-
-.comoAjudar-realce-h2 {
-  font-weight: 600;
-}
 
 .comoAjudar-item-lista,
 .comoAjudar-paragrafo {
